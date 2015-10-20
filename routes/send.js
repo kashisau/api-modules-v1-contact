@@ -1,6 +1,6 @@
 var express = require('express');
 var router = express.Router();
-var contactModel = require('../model/contact.js');
+var contactModel = require('./contact.js');
 /**
  * Contact module routing: Send
  * 
