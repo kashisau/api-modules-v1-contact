@@ -1,0 +1,13 @@
+{
+  "name": "website-api-module-contact",
+  "version": "0.0.2",
+  "description": "The contact form module for Kashi's website API.",
+  "author": "Kashi Samaraweera <kashi@kashis.com.au>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+  },
+  "license": "MIT"
+}
